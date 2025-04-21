@@ -10,7 +10,7 @@ This interactive project contains various HTML files demonstrating different HTM
 
 ## 📋 Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview](#Project-Overview)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Learning Path](#learning-path)
