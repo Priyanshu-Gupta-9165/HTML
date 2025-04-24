@@ -19,7 +19,7 @@ This interactive project contains various HTML files demonstrating different HTM
 - [Browser Compatibility](#browser-compatibility)
 - [Contributing](#contributing)
 - [Resources](#resources)
-- [Author](#author)
+- [Author](##Author)
 
 ## 🔍 Project Overview
 
